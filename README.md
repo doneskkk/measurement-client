@@ -1,5 +1,5 @@
 # measurement-client
-Client for measurement-api  https://github.com/doneskkk/measurement-api , using **RestTemplate**
+Client for measurement-api  https://github.com/doneskkk/measurements-api , using **RestTemplate**
 
  - 1000 post request /api/v1/measurements/add
  - register a new sensor
